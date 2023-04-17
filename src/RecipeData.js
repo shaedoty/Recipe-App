@@ -7,7 +7,7 @@ const RecipeData = [
   {
     name: "Tuna Poke with Mango",
     cuisine: "Hawaiian",
-    photo: "https://www.foodista.com/sites/default/files/styles/recype/public/tunapokebowlwithmango22.jpg",
+    photo: "https://th.bing.com/th?id=OIP.1vCZuitJ2n1volQydvzsJwHaHj&w=247&h=252&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
     ingredients: "1 package of sushi grade tuna. 1 cup cooked quinoa ½ avocado, sliced. ½ mango, cubed. 1 shredded carrot. 1 small sliced cucumber. poke sauce.",
     preparation: "1. Chop tuna into cubes. 2. Toss with 1 tbsp sesame oil and 1 tbsp tamari. Set aside. 3. Layer your poke bowl starting with quinoa. 4. Whisk all poke sauce ingredients in a bowl and pour over the poke bowl. 5. Garnish with sesame seeds and furikake. 6. Top with chopped scallions."
   },
