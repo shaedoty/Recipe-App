@@ -17,7 +17,7 @@ function App() {
   }
   return (
     <div className="App">
-      <header><h1>Delicious Food Recipes</h1></header>
+      <header><h1>Recipe Keeper</h1></header>
       <RecipeList recipes={recipes} RecipeDelete={RecipeDelete}/>
       <RecipeCreate recipes={recipes} setRecipes={setRecipes}/>
     </div>
